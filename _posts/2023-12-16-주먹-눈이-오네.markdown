@@ -1,0 +1,48 @@
+---
+title: 주먹 만한 눈이 펑펑 내리는 날
+layout: post #default
+subtitle: 아침에 눈을 만나 기쁜 마음으로 유튜브에 담기
+gh-repo: jwsheen/jwsheen.github.io
+# gh-badge: [star, fork, follow]
+cover-img: https://img.youtube.com/vi/BR2LkyvSykI/default.jpg
+tags: [daily]
+comments: true
+author: 잠자리
+---
+
+# 눈오는 날 동영상에 남기고
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/BR2LkyvSykI" title="주먹 눈이 날리네" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>  
+**휴대폰 동영상 촬영**한 후 무편집 
+
+<hr/>
+
+### `YOUTUBE 채널` 동영상 올리기 
+{: .box-note}
+**iframe tag 활용하여 웹페이지에 결합**    
+```<iframe width="640" height="360" src="https://www.youtube.com/embed/BR2LkyvSykI" title="주먹눈이 날리네" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>```
+
+
+### YOUTUBE 용어
+{: .box-note}
+{:#term} video_ID
+: {:.cls} `https://youtu.be/{your video_ID}` 형식에서 {your video_ID} 부분을 video_ID로 함
+
+{:#term1} ThumbNail image
+: {:.cls} `https://img.youtube.com/vi/{your video_ID}/{image.jpg}`  
+image.jpg = {default.jpg, hqdefault.jpg, mqdefault.jpg} 선택하여 사용
+
+<!--
+video_ID : https://youtu.be/{video_ID}
+* video_ID : **BR2LkyvSykI**
+    - youtube에 동영상을 올리면 자동 생성되는 ID
+    - 동영상 URL에 포함되어 있음
+    - URL: https://youtu.be/{your video_ID}
+    * 예: `https://youtu.be/BR2LkyvSykI`    
+* YOUTUBE 제공 thumbnail
+    - thumbnail URL: https://img.youtube.com/vi/{your video_ID}/{default.jpg |hqdefault.jpg |mqdefault.jpg}
+-->
+
+<hr/>
+<small>블로그와 Youtube를 활용하여 일상을 기록한 첫 번째 기록</small>
+
+{% include footer.html %}

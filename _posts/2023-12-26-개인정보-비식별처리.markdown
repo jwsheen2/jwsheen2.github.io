@@ -1,0 +1,47 @@
+---
+title: 개인정보 비식별 처리
+layout: post #default
+subtitle: 비식별 처리된 개인정보를 활용하는 방안
+gh-repo: jwsheen/jwsheen.github.io
+# gh-badge: [star, fork, follow]
+cover-img: /assets/img/비식별처리-반전.png
+tags: [daily, ISMS-P]
+comments: true
+author: 잠자리
+---
+
+![](/assets/img/비식별처리.PNG){: width="640px"}
+
+## 개인정보 비식별 처리
+1. 개인정보 수집 동의하에 저장된 개인정보 원본이 있다
+2. 다른 시스템이나 외부 정보와 연동할 필요가 생긴다. (연동해서 얻은 정보를 통계나 연구에 사용할 때)
+3. 비식별 처리 방법을 공유하고, 비식별 처리된 개인정보를 공유한다
+
+## 비식별처리 방법
+
+| 처리기법| 예시 | |
+| --- | --- | --- |
+| [개인정보] | [홍길도, 35세, 서울거주, 한국대 재학]||
+| 가명처리 | &rarr;홍꺽정, 30대, 서울거주, 국내대 재학|
+| 마스킹 | &rarr;홍OO, 35세, 서울거주, OO대학 재학|
+| 범주화 | &rarr;홍씨, 30~40세, 국내거주, 대학 재학 |
+  
+
+*** 
+
+### 비식별처리방법 예시
+![비식별처리방법](/assets/img/비식별처리방법.png){: height="400px", align="center"}
+
+
+***
+##### markdown test code
+
+[cols="^,^,^"]
+|===
+|Layer1 |Layer2 |Layer3 
+.4+.^|L1 Name .2+.^|L2 Name A |L3 Name A 
+|L3 Name B 
+.2+.^|L2 Name B |L3 Name C 
+|L3 Name D 
+|===
+
