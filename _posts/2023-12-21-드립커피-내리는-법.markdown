@@ -5,7 +5,9 @@ subtitle: JMT 콜드브루로 유명한 나떼조아의 드립커피 강좌 기�
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: https://img.youtube.com/vi/dDt7Ttz9wIo/default.jpg
-cover-img: /assets/img/tips-pour-over_1024x1024.webp
+mermaid: true
+image:
+  path: /assets/img/tips-pour-over_1024x1024.webp
 tags: [daily,나떼조아]
 comments: true
 author: 잠자리

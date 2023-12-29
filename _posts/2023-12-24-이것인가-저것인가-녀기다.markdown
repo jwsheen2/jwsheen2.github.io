@@ -5,7 +5,9 @@ subtitle: 이건가? 저건가? 아닌가? 맞나?
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/3KhP/image/vIG3sawFIdH9skyUWjjqP1JGUkM.jpg
-cover-img: /assets/img/말차림-늧-얼-넋-알.png
+mermaid: true
+image:
+  path: /assets/img/말차림-늧-얼-넋-알.png
 tags: [daily,탈태]
 comments: true
 author: 잠자리
