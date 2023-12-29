@@ -2,7 +2,7 @@
 title: Learn Unlearn Relearn
 layout: post #default
 subtitle: 낯선 장면에서 배움이 시작되지만, 배우기전에 Unlearning을 하라
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
 tags: [daily,탈태]

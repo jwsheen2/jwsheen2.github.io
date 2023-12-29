@@ -2,7 +2,7 @@
 title: 개인정보 비식별 처리
 layout: post #default
 subtitle: 비식별 처리된 개인정보를 활용하는 방안
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/비식별처리-반전.png
 tags: [daily, 정보보호]

@@ -2,7 +2,7 @@
 title: 한국말 말씀(말ᄊᆞᆷ) 풀어보는 이야기
 layout: post #default
 subtitle: 한국말에서 말을 풀어본다
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/마디말차림.PNG
 tags: [daily,탈태]

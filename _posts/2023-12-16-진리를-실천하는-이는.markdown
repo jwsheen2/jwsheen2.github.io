@@ -2,7 +2,7 @@
 title: 빛으로 나아간다
 layout: post #default
 subtitle: 대림3주 새로 수품하신 김*교 스테파노 신부 강론 2023년
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
 tags: [daily]

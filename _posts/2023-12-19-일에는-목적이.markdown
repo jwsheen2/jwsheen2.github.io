@@ -2,7 +2,7 @@
 title: 일에는 목적이 있기 마련
 layout: post
 subtitle: (하기로 마음먹었다면) 그 일에는 목적이 있기 마련이다
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/유튜브자막추출.jpg
 tags: [daily]

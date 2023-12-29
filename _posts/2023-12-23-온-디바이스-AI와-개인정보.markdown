@@ -2,7 +2,7 @@
 title: 온 디바이스 AI와 개인정보 보호
 layout: post #default
 subtitle: 애플과 삼성에서 온 디바이스 AI기능이 포함된 스마트폰을 발표한다
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/default.jpg
 tags: [daily,정보보호]

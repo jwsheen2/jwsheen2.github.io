@@ -2,7 +2,7 @@
 title: 드립커피 내리는 법 - 기본 &#35;1
 layout: post
 subtitle: JMT 콜드브루로 유명한 나떼조아의 드립커피 강좌 기본 &#35;1
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: https://img.youtube.com/vi/dDt7Ttz9wIo/default.jpg
 cover-img: /assets/img/tips-pour-over_1024x1024.webp

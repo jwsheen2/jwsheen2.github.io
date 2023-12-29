@@ -2,7 +2,7 @@
 title: Markdown 문법 연습
 layout: post #default
 subtitle: Kramdown의 문법에서 "{&colon; ...}"을 배우기가 어렵다
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/default.jpg
 tags: [daily,test]

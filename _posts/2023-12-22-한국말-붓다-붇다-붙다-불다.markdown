@@ -2,7 +2,7 @@
 title: 붓다,불다,붇다
 layout: post #default
 subtitle: 콩을 불린 후 불고 나면? 붇고/붓고/불고 나면?
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/default.jpg
 tags: [daily,탈태]

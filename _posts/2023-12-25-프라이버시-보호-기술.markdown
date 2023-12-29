@@ -2,7 +2,7 @@
 title: 개인정보 보호 기술 1
 layout: post #default
 subtitle: 동형암호, 연합 학습, 합성데이터/재현데이터, 차분 프라이버시 등 PET(P-강화기술)
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
 tags: [daily, 정보보호]
