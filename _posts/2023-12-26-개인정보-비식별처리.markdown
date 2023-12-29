@@ -4,7 +4,10 @@ layout: post #default
 subtitle: 비식별 처리된 개인정보를 활용하는 방안
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
-cover-img: /assets/img/비식별처리-반전.png
+# cover-img: /assets/img/비식별처리-반전.png
+mermaid: true
+image:
+  path: /assets/img/비식별처리-반전.png
 tags: [daily, 정보보호]
 comments: true
 author: 잠자리
