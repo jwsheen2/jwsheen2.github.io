@@ -19,6 +19,7 @@ author: 잠자리
 
 ## 비식별처리 방법
 
+![비식별처리방법](/assets/img/비식별처리방법.png){: height="400", .w-50 .right}
 | 처리기법| 예시 | |
 | --- | --- | --- |
 | [개인정보] | [홍길도, 35세, 서울거주, 한국대 재학]||
@@ -32,7 +33,7 @@ author: 잠자리
 ### 비식별처리방법 예시
 ![비식별처리방법](/assets/img/비식별처리방법.png){: height="400px", align="center"}
 
-
+<!-- ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .right} -->
 ***
 ##### markdown test code
 
