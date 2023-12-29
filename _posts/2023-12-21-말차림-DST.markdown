@@ -6,7 +6,7 @@ subtitle: 한국말에서 말을 풀어본다
 # gh-badge: [star, fork, follow]
 mermaid: true
 image:
-  path: /assets/img/마디말차림.PNG
+  path: /assets/img/마디말차림.png
 tags: [daily,탈태]
 comments: true
 author: 잠자리
