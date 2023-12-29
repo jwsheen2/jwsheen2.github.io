@@ -1,14 +1,15 @@
 ---
-# layout:  default #blog #post #list
-title: Youtube에 주먹눈 펑펑 동영상 올리기
+title: 주먹만한 눈이 펑펑 내리는 날
 layout: post #default
 tags: [daily]
 author: 잠자리
 ---
-# 눈오는 날 동영상에 남기고
-==휴대폰 동영상 촬영==으로 장면을 남겼다
 
-# Youtube `채널`` 동영상 올리기 
+## 매일 글을 써볼까
+* 아침에 일어나 보니 마당에 주먹만한 눈이 펑펑 내린다. 일단 휴대폰으로 장면을 남겨보자.
+* 이왕 멋진 장면을 보고 감탄하는 김에 남쪽에 사는 우리 이쁜이에게도 알려볼 요량으로 유튜브에 올리자.
+
+## `Youtube 채널` 동영상 올리기 
 * video_ID : **BR2LkyvSykI**
     - youtube에 동영상을 올리면 자동 생성되는 ID
 * URL: [https://youtu.be/BR2LkyvSykI](https://youtu.be/BR2LkyvSykI)
@@ -30,3 +31,6 @@ video : https://youtu.be/**{your video_ID}**
 `<iframe width="840" height="480" src="https://www.youtube.com/embed/BR2LkyvSykI" title="주먹눈이 날리네" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/BR2LkyvSykI" title="주먹눈이 날리네" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+***
+[네이버 맞춤법](https://m.search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EB%84%A4%EC%9D%B4%EB%B2%84+%EB%A7%9E%EC%B6%A4%EB%B2%95)
