@@ -5,7 +5,7 @@ subtitle: 팥앙금을 사서 양갱을 만들어 본다
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/수제양갱.jpg
-tags: [daily]
+tags: [daily,나떼조아]
 comments: true
 author: 잠자리
 ---

@@ -5,7 +5,7 @@ subtitle: Kramdown의 문법에서 "{&colon; ...}"을 배우기가 어렵다
 gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/default.jpg
-tags: [daily]
+tags: [daily,test]
 comments: true
 author: 잠자리
 ---

@@ -5,7 +5,7 @@ subtitle: 낯선 장면에서 배움이 시작되지만, 배우기전에 Unlearn
 gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily,변신]
+tags: [daily,탈태]
 comments: true
 author: 잠자리
 ---

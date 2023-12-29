@@ -5,7 +5,7 @@ subtitle: 개보위에서 2022년부터 개인정보보호 기술개발 로드�
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily,변신]
+tags: [daily,정보보호]
 comments: true
 author: 잠자리
 ---

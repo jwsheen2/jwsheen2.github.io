@@ -5,7 +5,7 @@ subtitle: 한국말에서 말을 풀어본다
 gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/마디말차림.PNG
-tags: [daily]
+tags: [daily,탈태]
 comments: true
 author: 잠자리
 ---

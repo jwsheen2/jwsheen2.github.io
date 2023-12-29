@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 12년만에 중국 동료를 만나고 나서 기쁘고 마음이 따뜻해진 소회 
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
-# tags: [daily]
+tags: [daily]
 # comments: true
 author: 잠자리
 ---

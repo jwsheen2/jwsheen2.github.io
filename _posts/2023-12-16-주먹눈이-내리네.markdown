@@ -2,6 +2,7 @@
 # layout:  default #blog #post #list
 title: Youtube에 주먹눈 펑펑 동영상 올리기
 layout: post #default
+tags: [daily]
 author: 잠자리
 ---
 # 눈오는 날 동영상에 남기고

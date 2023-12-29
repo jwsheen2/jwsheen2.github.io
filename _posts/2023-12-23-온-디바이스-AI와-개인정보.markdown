@@ -5,7 +5,7 @@ subtitle: 애플과 삼성에서 온 디바이스 AI기능이 포함된 스마�
 gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/default.jpg
-tags: [daily]
+tags: [daily,정보보호]
 comments: true
 author: 잠자리
 ---

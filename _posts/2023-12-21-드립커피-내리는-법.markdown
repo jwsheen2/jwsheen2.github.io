@@ -6,7 +6,7 @@ gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: https://img.youtube.com/vi/dDt7Ttz9wIo/default.jpg
 cover-img: /assets/img/tips-pour-over_1024x1024.webp
-tags: [daily]
+tags: [daily,나떼조아]
 comments: true
 author: 잠자리
 ---

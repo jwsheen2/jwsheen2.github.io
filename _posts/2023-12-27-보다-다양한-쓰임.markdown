@@ -5,7 +5,7 @@ subtitle: (눈으로) 보다. 맛보다. 만나 보다. 보다 앞에. 무엇 �
 gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily]
+tags: [daily,탈태]
 comments: true
 author: 잠자리
 ---
