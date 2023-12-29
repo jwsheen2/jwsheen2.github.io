@@ -2,7 +2,7 @@
 title: 양갱 만드는 방법
 layout: post #default
 subtitle: 팥앙금을 사서 양갱을 만들어 본다
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/수제양갱.jpg
 tags: [daily]

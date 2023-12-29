@@ -2,7 +2,7 @@
 title: 동영상에서 음성을 자막으로 추출하는 법
 layout: post
 subtitle: 동영상을 유튜브에 올리고 자막을 추가하는 과정
-gh-repo: jwsheen/jwsheen.github.io
+# gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/유튜브자막추출.jpg
 tags: [daily]
