@@ -5,7 +5,7 @@ title: 주먹 만한 눈이 펑펑 내리는 날
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 # cover-img: https://img.youtube.com/vi/BR2LkyvSykI/default.jpg
-tags: [daily]
+# tags: [daily]
 # comments: true
 # author: 잠자리
 ---
@@ -45,4 +45,4 @@ video_ID : https://youtu.be/{video_ID}
 <hr/>
 <small>블로그와 Youtube를 활용하여 일상을 기록한 첫 번째 기록</small>
 
-{% include footer.html %}
+<!-- {% include footer.html %} -->
