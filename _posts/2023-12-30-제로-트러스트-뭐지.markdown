@@ -3,7 +3,7 @@ title: ZTA(Zero Trust Architecture) 이해 첫번째
 layout: post #default
 subtitle: 제로트러스트가 필요한 이유
 image:
-  path: assets/img/the-Power-of-Zero-Trust.jpg
+  path: /assets/img/the-Power-of-Zero-Trust.jpg
 tags: [daily, 정보보호]
 comments: true
 author: 잠자리
@@ -43,7 +43,7 @@ author: 잠자리
 * ZT 기반 데이터 유출사고 방지, 내부 이동 제한하도록 설계된 Architecture
 
 ## ZT 핵심 원칙
-![ZT제로트러스트 핵심원칙](assets/img/ZT제로트러스트-핵심-원칙.png)
+![ZT제로트러스트 핵심원칙](/assets/img/ZT제로트러스트-핵심-원칙.png)
 * 강화된 인증
 * 마이크로 세그멘테이션(Micro Segmentation)
 * 소프트웨어 정의 경계(Software Defined Perimeter, SDP)
@@ -53,10 +53,10 @@ author: 잠자리
 
 ## ZT 성숙도 모델?
 ![성숙도모델 핵심요소](/assets/img/ZT-성숙도-모델-핵심요소.png)
-![성숙도모델 제안#1](assets/img/ZT-성숙도-모델-제안1.png)
+![성숙도모델 제안#1](/assets/img/ZT-성숙도-모델-제안1.png)
 
 ## 예, 원격지 근무환경
-![원격지 근무시 횡적이동 차단](assets/img/ZT-원격지-근무-횡적-이동-차단.png)
+![원격지 근무시 횡적이동 차단](/assets/img/ZT-원격지-근무-횡적-이동-차단.png)
 
 ## 제로트러스트가 주목 받는 이유
 ![ZT주목받는이유](/assets/img/ZT주목받는이유.png)
