@@ -1,5 +1,5 @@
 ---
-title: 랩서스 공격
+title: ZTA(Zero Trust Architecture) 이해 첫번째
 layout: post #default
 subtitle: 제로트러스트가 필요한 이유
 image:
@@ -19,6 +19,13 @@ author: 잠자리
 * 2016년 CAR(Conditional Access Release)로 발전
 
 ### 세밀한 인증체계, 정보자산 분리.보호, 접근 요구 정밀 제어 &rarr; 최소 권한 부여 
+* ZTA는 철학적 개념
+1. 정확
+2. 최소 권한
+3. 세션 단위 접근 결정
+4. 불확실성 최소화
+
+* 정적+네트워크 기반 경계 방어 &rarr; 사용자+자산+리소스 중심 방어 
 
 ## 제로트러스트 동향
 ![ZT동향](/assets/img/ZT동향-2005-2021.png)
