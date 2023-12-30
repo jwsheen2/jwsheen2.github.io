@@ -21,7 +21,7 @@ author: 잠자리
 ### 세밀한 인증체계, 정보자산 분리.보호, 접근 요구 정밀 제어 &rarr; 최소 권한 부여 
 
 ## 제로트러스트 동향
-![ZT동향](/assets/img/ZT동향-2005-2021.png){: width="400px"}
+![ZT동향](/assets/img/ZT동향-2005-2021.png)
 
 2005~2010 Forrester research
 : * '05년 탈 경계화 개념
@@ -36,7 +36,7 @@ author: 잠자리
 * ZT 기반 데이터 유출사고 방지, 내부 이동 제한하도록 설계된 Architecture
 
 ## 제로트러스트가 주목 받는 이유
-![ZT주목받는이유](/assets/img/ZT주목받는이유.png){: width="400px"}
+![ZT주목받는이유](/assets/img/ZT주목받는이유.png)
 ### 랩서스 공격
 * 2022년-3월 MS, Nvidia, 삼성, LG 대기업 공격
 * 마이크로소프트의 Labsus$ 공격에 대한 경고
