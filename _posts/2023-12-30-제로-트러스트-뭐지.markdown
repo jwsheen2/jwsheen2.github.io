@@ -2,8 +2,8 @@
 title: ZTA(Zero Trust Architecture) 이해 첫번째
 layout: post #default
 subtitle: 제로트러스트가 필요한 이유
-image:
-  path: #/assets/img/비식별처리.PNG
+# image:
+#   path: #/assets/img/비식별처리.PNG
 tags: [daily, 정보보호]
 comments: true
 author: 잠자리
