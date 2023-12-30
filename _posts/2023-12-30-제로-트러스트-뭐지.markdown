@@ -37,10 +37,11 @@ author: 잠자리
 2014 Google
 : * VPN 없이 기업 내부망 접근 가능
 * 네트워크 위치 상관없이 인증, 접근제어 정책만으로 제어 가능
+[[도서] 제로 트러스트 구글 엔지니어는 아무도 믿지 않는다](https://www.yes24.com/Product/Goods/114682926)
 
 2020 NIST
 : * Collection of Concepts and Ideas
-* ZT 기반 데이터 유출사고 방지, 내부 이동 제한하도록 설계된 Architecture
+* ZT 기반 데이터 유출사고 방지, 횡적 이동 제한하도록 설계된 Architecture
 
 ## ZT 핵심 원칙
 ![ZT제로트러스트 핵심원칙](/assets/img/ZT제로트러스트-핵심-원칙.png)
