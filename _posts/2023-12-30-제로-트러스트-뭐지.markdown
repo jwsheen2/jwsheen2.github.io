@@ -28,7 +28,7 @@ author: 잠자리
 * 정적+네트워크 기반 경계 방어 &rarr; 사용자+자산+리소스 중심 방어 
 
 ## 제로트러스트 동향
-![ZT동향](/assets/img/ZT동향-2005-2021.png)
+![ZT동향](/assets/img/ZT동향-2005-2021.png){: width="400px"}
 
 2005~2010 Forrester research
 : * '05년 탈 경계화 개념
@@ -48,7 +48,7 @@ author: 잠자리
 ### 랩서스 공격
 * 2022년-3월 MS, Nvidia, 삼성, LG 대기업 공격
 * 마이크로소프트의 Labsus$ 공격에 대한 경고
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kz75lmSbe7o" title="제로트러스트(Zero Trust) 가이드라인 1.0과 성공적 구현 방안 / #데일리시큐 #제로트러스트 #KISA #아카마이" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kz75lmSbe7o" title="제로트러스트(Zero Trust) 가이드라인 1.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 랜섬웨어 공격
 * 2021년-5월 [콜로니얼 파이프라인(Colonial Pipeline)](https://www.cisa.gov/news-events/news/attack-colonial-pipeline-what-weve-learned-what-weve-done-over-past-two-years)
