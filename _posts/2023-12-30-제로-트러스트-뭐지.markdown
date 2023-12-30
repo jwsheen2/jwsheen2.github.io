@@ -2,16 +2,16 @@
 title: ZTA(Zero Trust Architecture) 이해 첫번째
 layout: post #default
 subtitle: 제로트러스트가 필요한 이유
-# image:
-#   path: #/assets/img/비식별처리.PNG
+image:
+  path: assets/img/the-Power-of-Zero-Trust.jpg
 tags: [daily, 정보보호]
 comments: true
 author: 잠자리
 ---
 
-> 기존 보안 철학이었던 **경계 기반 방어**는 Offline, Online 경계가 흐려지고 혼합근무 또는 하이브리드 근무가 요구되는 기업환경에서 더이상 안전하지 않다. 
-> 구글은 아무것도 믿지 않는다는 **제로 트러스트** 
-> NIST SP 800-207, SP-207a를 적용해야할 필요가 있다
+> 기존 보안 철학이었던 **경계 기반 방어**는 Offline, Online 경계가 흐려지고 혼합근무 또는 하이브리드 근무가 요구되는 기업환경에서 더이상 안전하지 않다.  
+> 구글은 아무것도 믿지 않는다는 **제로 트러스트**  
+> NIST SP 800-207, SP-207a를 적용해야할 필요가 있다  
 
 ## Zero Trust(ZT)
 * 2004 Jericho forum에서 시작
@@ -28,7 +28,7 @@ author: 잠자리
 * 정적+네트워크 기반 경계 방어 &rarr; 사용자+자산+리소스 중심 방어 
 
 ## 제로트러스트 동향
-![ZT동향](/assets/img/ZT동향-2005-2021.png){: width="400px"}
+![ZT동향](/assets/img/ZT동향-2005-2021.png)
 
 2005~2010 Forrester research
 : * '05년 탈 경계화 개념
@@ -42,12 +42,23 @@ author: 잠자리
 : * Collection of Concepts and Ideas
 * ZT 기반 데이터 유출사고 방지, 내부 이동 제한하도록 설계된 Architecture
 
+## ZT 핵심 원칙
+![ZT제로트러스트 핵심원칙](assets/img/ZT제로트러스트-핵심-원칙.png)
+* 강화된 인증
+* 마이크로 세그멘테이션(Micro Segmentation)
+* 소프트웨어 정의 경계(Software Defined Perimeter, SDP)
+
 ## 제로트러스트가 주목 받는 이유
 ![ZT주목받는이유](/assets/img/ZT주목받는이유.png)
 
 ### 랩서스 공격
 * 2022년-3월 MS, Nvidia, 삼성, LG 대기업 공격
 * 마이크로소프트의 Labsus$ 공격에 대한 경고
+
+![예, 랩서스 Labsus$ 공격](/assets/img/랩서스Labsus공격이해.png)
+* 어떤 Device, User를 믿지 말고 검증할 수 있는가?
+* 권한 상승을 제한 하는 micro segmentation(자원 분리)을 구현할 수 있는가? 
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kz75lmSbe7o" title="제로트러스트(Zero Trust) 가이드라인 1.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 랜섬웨어 공격
