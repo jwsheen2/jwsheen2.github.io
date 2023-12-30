@@ -1,0 +1,47 @@
+---
+title: 랩서스 공격
+layout: post #default
+subtitle: 제로트러스트가 필요한 이유
+image:
+  path: #/assets/img/비식별처리.PNG
+tags: [daily, 정보보호]
+comments: true
+author: 잠자리
+---
+
+> 기존 보안 철학이었던 **경계 기반 방어**는 Offline, Online 경계가 흐려지고 혼합근무 또는 하이브리드 근무가 요구되는 기업환경에서 더이상 안전하지 않다. 
+> 구글은 아무것도 믿지 않는다는 **제로 트러스트** 
+> NIST SP 800-207, SP-207a를 적용해야할 필요가 있다
+
+## Zero Trust(ZT)
+* 2004 Jericho forum에서 시작
+* NAC등 네트워크 중심으로 시작
+* 2016년 CAR(Conditional Access Release)로 발전
+
+### 세밀한 인증체계, 정보자산 분리.보호, 접근 요구 정밀 제어 &rarr; 최소 권한 부여 
+
+## 제로트러스트 동향
+![ZT동향](/assets/img/ZT동향-2005-2021.png){: width="400px"}
+
+2005~2010 Forrester research
+: * '05년 탈 경계화 개념
+* '10년 ZeroTrust 용어
+
+2014 Google
+: * VPN 없이 기업 내부망 접근 가능
+* 네트워크 위치 상관없이 인증, 접근제어 정책만으로 제어 가능
+
+2020 NIST
+: * Collection of Concepts and Ideas
+* ZT 기반 데이터 유출사고 방지, 내부 이동 제한하도록 설계된 Architecture
+
+## 제로트러스트가 주목 받는 이유
+![ZT주목받는이유](/assets/img/ZT주목받는이유.png){: width="400px"}
+### 랩서스 공격
+* 2022년-3월 MS, Nvidia, 삼성, LG 대기업 공격
+* 마이크로소프트의 Labsus$ 공격에 대한 경고
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kz75lmSbe7o" title="제로트러스트(Zero Trust) 가이드라인 1.0과 성공적 구현 방안 / #데일리시큐 #제로트러스트 #KISA #아카마이" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 랜섬웨어 공격
+* 2021년-5월 [콜로니얼 파이프라인(Colonial Pipeline)](https://www.cisa.gov/news-events/news/attack-colonial-pipeline-what-weve-learned-what-weve-done-over-past-two-years)
+* 2023년-4월 [아메리콜드(Americold) 130,000 affected](https://therecord.media/ransomware-attack-on-americold-cold-storage)
