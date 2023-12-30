@@ -48,6 +48,16 @@ author: 잠자리
 * 마이크로 세그멘테이션(Micro Segmentation)
 * 소프트웨어 정의 경계(Software Defined Perimeter, SDP)
 
+## ZT 접근제어 논리
+![ZT 접근제어 논리](/assets/img/ZT-접근제어-논리.png)
+
+## ZT 성숙도 모델?
+![성숙도모델 핵심요소](/assets/img/ZT-성숙도-모델-핵심요소.png)
+![성숙도모델 제안#1](assets/img/ZT-성숙도-모델-제안1.png)
+
+## 예, 원격지 근무환경
+![원격지 근무시 횡적이동 차단](assets/img/ZT-원격지-근무-횡적-이동-차단.png)
+
 ## 제로트러스트가 주목 받는 이유
 ![ZT주목받는이유](/assets/img/ZT주목받는이유.png)
 
