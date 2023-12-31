@@ -39,7 +39,7 @@ author: 잠자리
 
 2014 Google
 : * VPN 없이 기업 내부망 접근 가능
-* 네트워크 위치 상관없이 인증, 접근제어 정책만으로 제어 가능
+* 네트워크 위치 상관없이 인증, 접근제어 정책만으로 제어 가능  
 [[도서] 제로 트러스트 구글 엔지니어는 아무도 믿지 않는다](https://www.yes24.com/Product/Goods/114682926)
 
 2020 NIST
@@ -80,3 +80,11 @@ author: 잠자리
 ### 랜섬웨어 공격
 * 2021년-5월 [콜로니얼 파이프라인(Colonial Pipeline)](https://www.cisa.gov/news-events/news/attack-colonial-pipeline-what-weve-learned-what-weve-done-over-past-two-years)
 * 2023년-4월 [아메리콜드(Americold) 130,000 affected](https://therecord.media/ransomware-attack-on-americold-cold-storage)
+
+### 2022-23 해킹 사고
+| 기업 | 해킹 유형 | 유출된 정보 | 피해 규모 | 해킹사고 발생한 날짜 |
+|---|---|---|---|---|
+| 롯데백화점 그룹 | 지능형지속위협(APT) 공격 | 고객 100만여 명 개인정보 | 약 100억 원 | 2022년 1월 20일 |
+| 엔씨소프트 | 랜섬웨어 공격 | '리니지W' 게임머니와 아이템 약 1조 원 규모 | 약 1,000억 원 | 2022년 5월 10일 |
+| 한국전력 | 랜섬웨어 공격 | 고객 50만여 명 개인정보 | 약 50억 원 | 2023년 1월 15일 |
+| 삼성전자 | 외부 협력업체 해킹 | 스마트폰 제조 공장 생산 라인 중단 | 약 1,000억 원 | 2023년 5월 25일 |
