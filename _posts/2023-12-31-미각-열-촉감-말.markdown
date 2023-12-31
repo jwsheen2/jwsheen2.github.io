@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 빛 보이다, 소리 들리다, 냄새 나다, 맛 나다, 열 느끼다, 촉 느끼다
 image:
   path: /assets/img/the-Power-of-Zero-Trust.jpg
-tags: [daily, 정보보호]
+tags: [daily]
 comments: true
 author: 잠자리
 ---
