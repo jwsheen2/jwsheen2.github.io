@@ -1,0 +1,10 @@
+---
+title: 이미지, 영상 데이터에서 개인정보 비식별 조치
+layout: post #default
+subtitle: 비정형 데이터에서 개인정보를 인식하고 보호하려면(#2이미지영상)
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
