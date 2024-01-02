@@ -8,3 +8,15 @@ tags: [정보보호]
 comments: true
 author: 잠자리
 ---
+
+## Bluring
+* 얼굴 부분을 흐릿하게 처리
+
+## 얼굴 인식 AI
+1. detection 탐지
+2. characterization 특징 추출
+3. verification 검증
+4. identification 식별
+
+
+## AI에 의한 모델 전도 공격 Model inversion attack
