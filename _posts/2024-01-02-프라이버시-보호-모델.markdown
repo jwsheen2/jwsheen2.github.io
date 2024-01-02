@@ -1,0 +1,23 @@
+---
+title: 프라이버시 보호 모델
+layout: post #default
+subtitle: k-익명성, l-다양성, t-근접성
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+## k-익명성
+* 사건: 메사추세츠 주지사 의료정보
+* 재식별을 어렵게 만드는 것
+
+
+## l-다양성
+* 동질집합의 크기 equivalence class > 1
+
+
+## t-근접성
+* 쏠림공격 skewness attack
+* 유사성공격 similarity attack
