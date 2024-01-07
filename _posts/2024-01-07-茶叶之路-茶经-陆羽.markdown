@@ -10,33 +10,40 @@ comments: true
 author: 잠자리
 ---
 
-## 茶圣-陆羽
+## 三国演义
 <details>
     <summary>삼국지 소교小乔</summary>
-
 <!-- * [삼국지 소교小乔](/assets/img/삼국지-소교-조조-차담.mp4) -->
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OZeQrZ5H6bo" title="赤壁大战-小乔&amp;曹操" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
-## 茶,一片树叶的故事
+<details>
+    <summary>茶,一片树叶的故事</summary>
 * [茶,一片树叶的故事#1](https://youtu.be/5RzhSSmGBAY?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
 * [茶,一片树叶的故事#2](https://youtu.be/-fHUdLnvki8?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
 * [茶,一片树叶的故事#3](https://youtu.be/gtzciKapCGc?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
 * [茶,一片树叶的故事#4](https://youtu.be/pL_PanLpy34?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
 * [茶,一片树叶的故事#5](https://youtu.be/IJgBH-1gVMs?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
 * [茶,一片树叶的故事#6](https://youtu.be/sR6JDxIq73M?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
+</details>
 
-## 茶经-陆羽的茶, CCTV
+<details>
+    <summary>茶经-陆羽的茶, CCTV</summary>
 * [问径-陆羽的茶#1](https://youtu.be/dvGVsFwGUEA)
 * [问径-陆羽的茶#2](https://youtu.be/lmkkHB1j7AY)
+</details>
 
-## 茶的故事, CCTV
+<details>
+    <summary>茶的故事, CCTV</summary>
 * [茶的故事](https://youtu.be/ud-PEkLSwlI)
+</details>
 
-## 茶叶之路
+<details>
+    <summary>茶叶之路</summary>
 * [茶叶之路#1](https://youtu.be/IteUoTs8Gb8)
 * [茶叶之路#2](https://youtu.be/FiCjuXeg-MY)
 * [茶叶之路#3](https://youtu.be/NX6oJ6jbreA?list=PLwXMmy5fUrVzfcE9bbblTjFYQPryVoN-X)
 * [茶叶之路#4](https://youtu.be/JlkzF-CBM14?list=PLwXMmy5fUrVzfcE9bbblTjFYQPryVoN-X)
 * [茶叶之路#5](https://youtu.be/6WxgtYL7NL4?list=PLwXMmy5fUrVzfcE9bbblTjFYQPryVoN-X)
 * [茶叶之路#6](https://youtu.be/dAWPwvgZBEA?list=PLwXMmy5fUrVzfcE9bbblTjFYQPryVoN-X)
+</details>
