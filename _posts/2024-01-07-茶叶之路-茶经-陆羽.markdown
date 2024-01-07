@@ -10,7 +10,6 @@ comments: true
 author: 잠자리
 ---
 
-## 三国演义
 <details>
     <summary>삼국지 소교小乔</summary>
 <!-- * [삼국지 소교小乔](/assets/img/삼국지-소교-조조-차담.mp4) -->
