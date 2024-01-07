@@ -1,8 +1,8 @@
 ---
-title: 프라이버시 보호 모델
+title: 책 제로 트러스트 구글 엔지니어는 아무도 믿지 않는다
 date: 2024-01-07
 layout: post #default
-subtitle: k-익명성, l-다양성, t-근접성
+subtitle: 제로 트러스트 이해, 가쓰무라 유키히로(이민성 옮김)
 # image:
 #   path: /assets/img/맛-산해진미-한정식.webp
 tags: [정보보호]
@@ -22,6 +22,16 @@ author: 잠자리
 | 단말 관리 | 없음(경계 내 단말은 안전) | MDM(모바일 단말 관리) <br> MAM(모바일 APP 관리)|
 | 단말 보호(EndPoint 보안) | 개인 방화벽 & 바이러스 검사 SW | EDR(엔드포인트 탐지 및 대응)[^5]|
 
+## 제로 트러스트 핵심 기능
+* 엄격한 사용자 및 단말 인증 & 인가
+* VPN 사용하지 않고 업무용 APP 접근
+
+IAM 
+: Identity and Access Management
+사용자와 속성 정보를 연동한 **ID 데이터베이스** & 이용가능한 APP과 데이터를 규정한 **접근 정책**  
+인증은 주로 MFA = {지식, 소유, 생체} (예: OTA-소유, 휴대폰-소유, 지문-생체, 얼굴-생체)
+
+#### IAM 
 [^1]: RIBA(Risk based Authetication, Royal Institute of British Architects )  
 [^2]: SIEM(Security Information and Event Management 보안 정보와 이벤트 관리)  
 [^3]: SWG(Security Web Gateway 보안 웹 게이트웨이)  
