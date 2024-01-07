@@ -30,6 +30,7 @@ IAM
 : Identity and Access Management
 사용자와 속성 정보를 연동한 **ID 데이터베이스** & 이용가능한 APP과 데이터를 규정한 **접근 정책**  
 인증은 주로 MFA = {지식, 소유, 생체} (예: OTA-소유, 휴대폰-소유, 지문-생체, 얼굴-생체)
+접근 정책 예:) 개발주 직원의 개발용 클라우드 이용을 허가한다
 
 #### IAM 
 [^1]: RIBA(Risk based Authetication, Royal Institute of British Architects )  
