@@ -26,6 +26,8 @@ author: 잠자리
 * 엄격한 사용자 및 단말 인증 & 인가
 * VPN 사용하지 않고 업무용 APP 접근
 
+![IAM개요](/assets/img/IAM개요.png)  
+
 IAM 
 : Identity and Access Management  
 사용자와 속성 정보를 연동한 **ID 데이터베이스** & 이용가능한 APP과 데이터를 규정한 **접근 정책**  
