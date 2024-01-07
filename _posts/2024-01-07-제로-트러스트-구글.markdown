@@ -35,8 +35,8 @@ IAM
 * 인사정보와 연동된 ID 관리  
 접근 정책 예:) 개발주 직원의 개발용 클라우드 이용을 허가한다  
 
-[^1]: RIBA(Risk based Authetication, Royal Institute of British Architects )  
-<small>사용자가 접근한 장소, 단말 상태 같은 상황을 확인해 의심스러운 행동을 한다고 판단되면 인증 거부 또는 인증 요소를 늘리는 인증 방식</small>  
+[^1]: <small> RIBA(Risk based Authetication, Royal Institute of British Architects )  
+사용자가 접근한 장소, 단말 상태 같은 상황을 확인해 의심스러운 행동을 한다고 판단되면 인증 거부 또는 인증 요소를 늘리는 인증 방식</small>  
 [^2]: SIEM(Security Information and Event Management 보안 정보와 이벤트 관리)  
 [^3]: SWG(Security Web Gateway 보안 웹 게이트웨이)  
 [^4]: CASB(Cloud Access Security Broker)  
