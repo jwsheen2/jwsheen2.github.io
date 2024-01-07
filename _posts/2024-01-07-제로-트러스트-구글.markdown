@@ -1,0 +1,31 @@
+---
+title: 프라이버시 보호 모델
+date: 9999-01-01
+layout: post #default
+subtitle: k-익명성, l-다양성, t-근접성
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+* 책: 제로 트러스트: 구글 엔지니어는 아무도 믿지 않는다
+
+| 보안 기능 | 경계 방어 | 제로 트러스트 |
+| --- | --- | --- |
+| 사용자 인증 | ID+암호 | MFA(다요소 인증), RIBA(위험 기반 인증)를 사용한 통합 인증(SSO)[^1] |
+| APP 이용 인가 | APP마다 개별 설정 | 접근 정책과 대조하여 요청할 때마다 판단 |
+| 사이버 공격 탐지 및 방어 | 경계에 설치한 Firewall이나 UTM | SIEM(보안 정보와 이벤트 관리)[^2]|
+| 사용자 웹 접근 관리| 경계에 설치한 Proxy | SWG(보안 웹 게이트웨이)[^3] <br> CASB[^4]| 
+| 원격에서 APP 이용 | VPN | IAP(ID 인증 프록시)|
+| 단말 관리 | 없음(경계 내 단말은 안전) | MDM(모바일 단말 관리) <br> MAM(모바일 APP 관리)|
+| 단말 보호(EndPoint 보안) | 개인 방화벽 & 바이러스 검사 SW | EDR(엔드포인트 탐지 및 대응)[^5]|
+
+[^1]: RIBA(Risk based Authetication, Royal Institute of British Architects )  
+[^2]: SIEM(Security Information and Event Management 보안 정보와 이벤트 관리)  
+[^3]: SWG(Security Web Gateway 보안 웹 게이트웨이)  
+[^4]: CASB(Cloud Access Security Broker)  
+[^5]: EDR(Endpoint Detection and Response)  
+    * XDR: Extended detection and response   
+    * National Protective Security Authority (NPSA) :  RIBA?
