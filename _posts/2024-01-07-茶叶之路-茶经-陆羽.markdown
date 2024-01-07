@@ -11,9 +11,11 @@ author: 잠자리
 ---
 
 ## 茶圣-陆羽
+<details>
+    <summary>삼국지 소교小乔</summary>
 <!-- * [삼국지 소교小乔](/assets/img/삼국지-소교-조조-차담.mp4) -->
-
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OZeQrZ5H6bo" title="赤壁大战-小乔&amp;曹操" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
 
 ## 茶,一片树叶的故事
 * [茶,一片树叶的故事#1](https://youtu.be/5RzhSSmGBAY?list=PLwXMmy5fUrVwqSpP-IA31_vwe8CpqyN1T)
