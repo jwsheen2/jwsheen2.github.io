@@ -30,7 +30,8 @@ author: 잠자리
 
 <details>
     <summary>茶经-陆羽的茶, CCTV</summary>
-<iframe width="640" height="360" src="https://youtu.be/dvGVsFwGUEA" title="问径-陆羽的茶#1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dvGVsFwGUEA" title="问径-陆羽的茶  EP01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="1009" height="568" src="https://www.youtube.com/embed/dvGVsFwGUEA" title="《问径》陆羽的茶 EP01【CCTV纪录】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 * [问径-陆羽的茶#1](https://youtu.be/dvGVsFwGUEA)
 * [问径-陆羽的茶#2](https://youtu.be/lmkkHB1j7AY)
@@ -38,7 +39,7 @@ author: 잠자리
 
 <details>
     <summary>茶的故事, CCTV</summary>
-<iframe width="640" height="360" src="https://youtu.be/ud-PEkLSwlI" title="茶的故事" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ud-PEkLSwlI" title="茶的故事" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * [茶的故事](https://youtu.be/ud-PEkLSwlI)
 </details>
