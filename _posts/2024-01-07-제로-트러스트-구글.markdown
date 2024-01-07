@@ -1,6 +1,6 @@
 ---
 title: 프라이버시 보호 모델
-date: 9999-01-01
+date: 2024-01-07
 layout: post #default
 subtitle: k-익명성, l-다양성, t-근접성
 # image:
