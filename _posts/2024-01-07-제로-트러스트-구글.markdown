@@ -26,7 +26,7 @@ author: 잠자리
 * 엄격한 사용자 및 단말 인증 & 인가
 * VPN 사용하지 않고 업무용 APP 접근
 
-![IAM개요](/assets/img/IAM개요.png){: width="auto"}  
+![IAM개요](/assets/img/IAM개요.png){: width="480px"}  
 ![CASB 개요](/assets/img/CASB-개요.png){: width="auto" max-width="600px"}
 
 IAM 
