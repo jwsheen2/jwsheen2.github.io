@@ -26,8 +26,8 @@ author: 잠자리
 * 엄격한 사용자 및 단말 인증 & 인가
 * VPN 사용하지 않고 업무용 APP 접근
 
-![IAM개요](/assets/img/IAM개요.png){: width="480px"}  
-![CASB 개요](/assets/img/CASB-개요.png){: width="auto" max-width="600px"}
+![IAM개요](/assets/img/IAM개요.png){: width="auto" max-width="480px"}  
+![CASB 개요](/assets/img/CASB-개요.png){: width="auto" max-width="480px"}
 
 IAM 
 : Identity and Access Management  
@@ -36,13 +36,30 @@ IAM
 * 인사정보와 연동된 ID 관리  
 접근 정책 예:) 개발주 직원의 개발용 클라우드 이용을 허가한다  
 
+|명칭 | 개요|
+| --- | --- |
+| IAM: 신원 및 접근 관리 Identity and Access Management| 사용자의 ID 및 속성 정보, 접근 정책에 따라서 사용자 인증이나 애플리케이션으로의 인가를 관리한다|
+| IAP: ID 인지 프록시 Identity Aware Proxy | VPN 없이도 외부에서 사내 업무 애플리케이션으로 접근하는 수단을 제공한다 |
+| EDR: 엔드포인트 탐지 및 대응 Endpoint Detection and Response | 단말에 대한 사이버 공격을 방지한다. 이상 탐지, 피해 확대 방지, 자기 복구 등의 기능이 있다|
+| CASB: Cloud Access Security Broker | 사용자의 클라우드 이용 상황을 가시화한다 |
+| DLP: 데이터 유출 방지 Data Loss Prevention | 중요 파일의 외부 전송 등을 감시하며 중요 정보의 유출을 방지한다 |
+| SWG: 보안 웹 게이트웨이 Secure Web Gateway | 사용자의 인터넷 접근을 관리하며 필요에 따라 접근 제어를 실시한다 |
+| SIEM: 보안 정보와 이벤트 관리 Security Information Event Management | 조직이 관리하는 기기나 클라우드 등의 로그를 수집하고 분석해 사이버 공격의 징조나 이상을 탐지한다|
+| MFA: 다요소 인증 Multi-Factor Authentication | 여러 인증 요소를 사용해 정식 사용자인지 확인하는 인증 방식이다 |
+| MAM: 모바일 애플리케이션 관리 Mobile Application and Management | |
+| MDM: 모바일 단말 관리 Mobile Device Management | | 
+| RIBA: 위험 기반 인증 Risk-based Authentication | 사용자나 단말의 상황에서 인증 기준이나 방법을 동적으로 변경하는 인증 방법이다 |
 
 <hr/>
-* Cyber Recovery Solution (CRS)
+* Core Rule Set (CRS) ~ OWASP ModSecurity Core Rule Set
 * Default Rule Set (DRS)
+* EDR Endpoint Detect Response, MDR Managed ~, NDR Network ~, SIEM-통합 감지 , SOAR-탐지, TI Threat Intelligence-공격탐지
+* Security Orchestration, Automation and Response(SOAR)
+* DLP: 외부에 유출되면 안되는 데이터 관리
+* IoC: Indicators of Compromise 사이버 공격의 흔적 정보
 
 [^1]: <small> RIBA(Risk based Authetication, Royal Institute of British Architects )  사용자가 접근한 장소, 단말 상태 같은 상황을 확인해 의심스러운 행동을 한다고 판단되면 인증 거부 또는 인증 요소를 늘리는 인증 방식. &rarr; National Protective Security Authority (NPSA) </small>  
-[^2]: <small> SIEM(Security Information and Event Management 보안 정보와 이벤트 관리)</small>  
+[^2]: <small> SIEM(Security Information and Event Management 보안 정보와 이벤트 관리) 다양한 로그를 분석하여 공격 등 특이 상황을 재빨리 탐지</small>  
 [^3]: <small> SWG(Security Web Gateway 보안 웹 게이트웨이) 사용예: SWG with DLP</small>  
 [^4]: <small> CASB(Cloud Access Security Broker)  DLP(Data Loss Prevention)</samll>  
 [^5]: <small> EDR(Endpoint Detection and Response)</small>  
