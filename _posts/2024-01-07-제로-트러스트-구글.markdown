@@ -20,7 +20,7 @@ author: 잠자리
 | 사용자 웹 접근 관리| 경계에 설치한 Proxy | SWG(보안 웹 게이트웨이)[^3] <br> CASB[^4]| 
 | 원격에서 APP 이용 | VPN | IAP(ID 인증 프록시)[^6]|
 | 단말 관리 | 없음(경계 내 단말은 안전) | MDM(모바일 단말 관리) <br> MAM(모바일 APP 관리)|
-| 단말 보호(EndPoint 보안) | 개인 방화벽 & 바이러스 검사 SW | EDR(엔드포인트 탐지 및 대응)[^5]|
+| 단말 보호(EndPoint 보안) | 개인 방화벽 & 바이러스 검사 SW | EDR(엔드포인트 탐지 및 대응)[^5], XDR[^7]|
 
 ## 제로 트러스트 핵심 기능
 * 엄격한 사용자 및 단말 인증 & 인가
@@ -37,12 +37,10 @@ IAM
 
 <hr/>
 
-[^1]: <small> RIBA(Risk based Authetication, Royal Institute of British Architects )  사용자가 접근한 장소, 단말 상태 같은 상황을 확인해 의심스러운 행동을 한다고 판단되면 인증 거부 또는 인증 요소를 늘리는 인증 방식</small>  
+[^1]: <small> RIBA(Risk based Authetication, Royal Institute of British Architects )  사용자가 접근한 장소, 단말 상태 같은 상황을 확인해 의심스러운 행동을 한다고 판단되면 인증 거부 또는 인증 요소를 늘리는 인증 방식. &rarr; National Protective Security Authority (NPSA) </small>  
 [^2]: <small> SIEM(Security Information and Event Management 보안 정보와 이벤트 관리)</small>  
 [^3]: <small> SWG(Security Web Gateway 보안 웹 게이트웨이)  
 [^4]: <small> CASB(Cloud Access Security Broker)  
 [^5]: <small> EDR(Endpoint Detection and Response)  
 [^6]: <small> IAP(Identity Aware Proxy) VPN 사용하지 않고 사내 업무 APP 접근하는 환경으로 사용자와 APP간의 통신을 중개하는 PROXY</small>  
-
-* XDR: Extended detection and response   
-* National Protective Security Authority (NPSA) :  RIBA?
+[^7]: <small> XDR: Extended detection and response</small>
