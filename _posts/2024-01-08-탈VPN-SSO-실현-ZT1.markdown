@@ -46,7 +46,7 @@ author: 잠자리
 * 다른 컴퓨터를 감염시킬 목적으로 **실존 기업** 이나 **실존 인물**로 위장해서 메일을 보낸다
 
 
-![Drive by Download 공격 과정](assets/img/DriveByDownload-공격-과정.png){: width="auto" max-width="400px"}
+![Drive by Download 공격 과정](/assets/img/DriveByDownload-공격-과정.png){: width="auto" max-width="400px"}
 ## Drive-by-Download 공격
 * 웹사이트에 "브라우저 취약점 및 보안 결함을 공격"하는 프로그램을 만든다
 * 사용자의 접근을 기다린다
