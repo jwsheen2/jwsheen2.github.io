@@ -26,9 +26,31 @@ author: 잠자리
 * MDM, MAM을 IAM과 연동하고 단말 상태 정보를 IAM에 전달 (예: 평소와 다른 장소)
 * 상태에 따른 IAM 인증 방법 변경(예: MFA 요청 추가)
 
-![클라우드 이용 상황 보고](assets/img/SWG-클라우드-이용-상황-CASB.png){: width="auto" max-width="400px"}
+![클라우드 이용 상황 보고](/assets/img/SWG-클라우드-이용-상황-CASB.png){: width="auto" max-width="400px"}
 ## CASB 추가
 * SWG와 함께 부적절한 이용자 실시간 탐지
 
 ## MITM 공격
-![중간자 공격 MITM 과정 ](assets/img/ManInTheMiddle-중간자-공격-과정.png){: width="auto" max-width="400px"}
+![중간자 공격 MITM 과정](/assets/img/ManInTheMiddle-중간자-공격-과정.png){: width="auto" max-width="400px"}
+
+## BEC 공격 과정
+![BEC 공격 과정](/assets/img/BusinessEmailCompromise-과정.png){: width="auto" max-width="400px"}
+
+## PPAP Pen-Pineapple-Apple-Pen 방식
+![PPAP 과정](/assets/img/PPAP-과정.png)
+* 암호가 걸린 화일을 메일에 첨부로 보낸다
+* 암호는 별도의 메일로 따로 보낸다
+* **이모텟emotet** 공격에 취약하다
+
+#### 이모텟 공격
+* 다른 컴퓨터를 감염시킬 목적으로 **실존 기업** 이나 **실존 인물**로 위장해서 메일을 보낸다
+
+
+![Drive by Download 공격 과정](assets/img/DriveByDownload-공격-과정.png){: width="auto" max-width="400px"}
+## Drive-by-Download 공격
+* 웹사이트에 "브라우저 취약점 및 보안 결함을 공격"하는 프로그램을 만든다
+* 사용자의 접근을 기다린다
+* 예: 검블러 Gumbler
+### watering hole attack
+* Drive-by-Download 일종
+* 특정 기업이나 조직을 노린 표적형 공격
