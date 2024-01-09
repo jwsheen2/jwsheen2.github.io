@@ -1,0 +1,34 @@
+---
+title: 사내망 경계방어를 그대로 두고 ZT 실현하는 방법 1
+date: 2024-01-08
+layout: post #default
+subtitle: 레거시 경계방어를 수용한 채 ZT 구현하는 방법 이해
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+![IAM IAP를 이용한 ZT 실현](/assets/img/탈VPN-SSO-실현.png){: width="auto" max-width="400px"}
+
+## ZT 핵심은 IAM 
+* 모든 사용자와 단말은 IAM에서 인증
+* IAM 인증된 사용자와 단말은 클라우드에 접근 가능 &rarr; 사용자 편의성 매우 높아짐
+* 사내망 업무APP에 접근하는 것은 IAP proxy를 거치도록 보호
+* 경계 방어의 대표 주자 VPN은 의미없게 된다.
+* 옵션 - 사내에서는 IAP를 경유하지 않고 기존 경계 방어 수단을 사용할 수도 있다
+* 우려 - IAM + IAP에 부담 증가 but 클라우드 확장성으로 해소
+* 단점 - IAM + IAP가 public에 노출되어 있음
+
+![RIBA 실현](/assets/img/MDM-MAM-연계-RIBA-실현-ZT2.png){: width="auto" max-width="400px"}
+## RIBA 실현
+* MDM, MAM을 IAM과 연동하고 단말 상태 정보를 IAM에 전달 (예: 평소와 다른 장소)
+* 상태에 따른 IAM 인증 방법 변경(예: MFA 요청 추가)
+
+![클라우드 이용 상황 보고](assets/img/SWG-클라우드-이용-상황-CASB.png){: width="auto" max-width="400px"}
+## CASB 추가
+* SWG와 함께 부적절한 이용자 실시간 탐지
+
+## MITM 공격
+![중간자 공격 MITM 과정 ](assets/img/ManInTheMiddle-중간자-공격-과정.png){: width="auto" max-width="400px"}
