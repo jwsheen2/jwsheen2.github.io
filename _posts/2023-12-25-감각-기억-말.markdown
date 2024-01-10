@@ -5,7 +5,7 @@ subtitle: 보이다,들리다는 있는데 냄새받다, 맛느낌받다, 열감
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily, 탈태]
+tags: [daily, 생물, 심리]
 comments: true
 author: 잠자리
 ---

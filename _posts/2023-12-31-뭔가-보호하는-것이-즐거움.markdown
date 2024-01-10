@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 보호가 필요한 사람에게는 관심. 그외에는 호기심. 보호받고 있다고 느끼는 지인들에게는 소홀.
 # image:
 #   path: 
-tags: [daily]
+tags: [daily,창직]
 comments: true
 author: 잠자리
 ---

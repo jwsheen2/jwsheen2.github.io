@@ -1,11 +1,11 @@
 ---
-title: 한국말 "보다"의 다양한 쓰임
+title: "보다" 이렇게나 많이 쓰이나 
 layout: post #default
 subtitle: (눈으로) 보다. 맛보다. 만나 보다. 보다 앞에. 무엇 보다....
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily,탈태]
+tags: [daily,한국말]
 comments: true
 author: 잠자리
 ---

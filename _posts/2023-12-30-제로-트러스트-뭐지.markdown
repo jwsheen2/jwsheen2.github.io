@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 제로트러스트가 필요한 이유
 image:
   path: /assets/img/the-Power-of-Zero-Trust.jpg
-tags: [daily, 정보보호]
+tags: [daily, 정보보호, 창직]
 comments: true
 author: 잠자리
 ---

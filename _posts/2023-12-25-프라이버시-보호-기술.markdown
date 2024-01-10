@@ -5,7 +5,7 @@ subtitle: 동형암호, 연합 학습, 합성데이터/재현데이터, 차분 �
 # gh-repo: jwsheen/jwsheen.github.io
 # gh-badge: [star, fork, follow]
 cover-img: /assets/img/default-Background.jpg
-tags: [daily, 정보보호]
+tags: [daily, 정보보호, 창직]
 comments: true
 author: 잠자리
 ---

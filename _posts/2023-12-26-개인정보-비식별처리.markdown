@@ -8,7 +8,7 @@ subtitle: 비식별 처리된 개인정보를 활용하는 방안
 mermaid: true
 image:
   path: /assets/img/비식별처리.PNG
-tags: [daily, 정보보호]
+tags: [daily, 정보보호, 창직]
 comments: true
 author: 잠자리
 ---

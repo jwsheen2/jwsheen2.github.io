@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 많은 자극중에 어느 것에 초점을 두고, 그 윤곽 배경 두께 원근을 보려고 한다
 # image:
 #   path: /assets/img/맛-산해진미-한정식.webp
-tags: [daily]
+tags: [daily, 생물]
 comments: true
 author: 잠자리
 ---

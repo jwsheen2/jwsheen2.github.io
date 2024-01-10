@@ -4,7 +4,7 @@ layout: post #default
 subtitle: 빛 보이다, 소리 들리다, 냄새 나다, 맛 나다, 열 느끼다, 촉 느끼다
 image:
   path: /assets/img/맛-산해진미-한정식.webp
-tags: [daily]
+tags: [daily, 생물]
 comments: true
 author: 잠자리
 ---
