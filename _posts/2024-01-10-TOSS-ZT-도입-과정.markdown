@@ -1,0 +1,54 @@
+---
+title: ZT 사례 - 더 안전하면서 업무환경은 더 편안해질 수 있다
+date: 2024-01-08
+layout: post #default
+subtitle: TOSS 1,2,3,4,5
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+
+## 질문과 해결 방안 찾아가기
+
+[ZT core components](/assets/img/NIST-800-207-coreComponents.png)
+## NIST 800-127(?) 베끼기
+
+[TOSS ZT 도입 요소들](/assets/img/TOSS-ZT-요소들.png)
+## 하나씩 해결하기
+> IAM, SASE Secure Access Service Edge, ZTNA, UEM Unified Endpoint Management, EPP Endpoint Protection Platform
+
+### IAM
+* SSO - SSL inspection, URL & App control을 통한 피싱, 악성사이트 차단
+* RBAC - Role based 인사와 연계 직군,팀 단위 접근 제어
+* ABAC - Attribute based 접근할 때 회사에서 정의한 Network, 자산, 보안 검증
+* Policy - App접근시 MFA 정의, Rbac Abac 접근제어
+* Security - TI 분석 / SIEM 연동 피싱& 위협 예방 방지
+
+### SASE
+* User, System, End Point, Remote App, Resource를 안전하게 연결하는 Cloud Delivery Platform
+* SD-WAN 및 ZT 보안에 집중하는 프레임워크
+* Policy
+* Data 보호 - DLP로 중요 데이터 유출 방지, CASB로 Cloud 중요 데이터 유출 방지
+* 위협관리 - 맬웨어(악성코드, 랜섬웨어, 스파이웨어) 식별 차단, ATP로 네트워크 트래픽 검사 분석, Sandbox를 통해 파일, URL, IP 데이터 분석하고 식별/분석/격리
+
+### ZTNA
+* 정의된 액세스 제어 정책을 기반
+* App, Data, Service에 대한 보안된 원격 접근 제공( 네트워크 단위 접근 제어하는 VPN 유사)
+* Role - IAM과 연동
+* Segment - 정보 자산을 App 단위로
+
+### UEM
+* Device Management
+* Asset Management - 장비
+* App Management - 
+* Policy - 화면보호기, 디스크 암호
+
+### EPP
+* Vaccine+DRM을 설치하는 대신
+* PC와 Mobile Device에서 발생할 수 있는 보안 위협을 탐지 + 차단하기 위한 통합 보안 솔루션 = {방화벽, Anti-Varus/Anti-Malware, EDR, HostIPS}
+* Anti-malware
+* EDR
+* IAM+SASE+ZTNA와 연동
