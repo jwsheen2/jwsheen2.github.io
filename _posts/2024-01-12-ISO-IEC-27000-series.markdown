@@ -1,0 +1,64 @@
+---
+title: ISO/IEC 27000 series - 라이지움
+date: 2099-01-11
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [memo]
+comments: true
+author: 잠자리
+---
+
+![라이지움 ISO 27001](/assets/img/라이지움-ISO-27001.png)
+
+27001 Risk based 통제 원칙
+27001 Annex A 통제 - 정보보안 통제의 포괄적인 통제 목록
+27002 CyberSecurity Framework 구현 (NIST CyberSecurity Framework 참조 모델 draft:2023)
+27005 정보보안 위험 관리
+
+TR 27103 사이버보안 및 ISO/IEC 표준 - Risk based 접근 방법 + 5기능(식별, 보호, 탐지, 대응, 복구) + 경영진을 위한 사이버보안 3원칙 및 10가지 필수요소
+TS 27100:2020 CyberSecurity Concepts 사이버보안 개념 정의 및 통제 / Attr based + Context based 개념 
+TS 27110 CyberSecurity Framework 지침 - 식별, 보호, 탐지, 대응, 복구를 통해 CyberSecurity Controls 사이버보안 통제를 선택 및 구현
+
+27017 Annex 통제 - 클라우드 서비스 보안
+27018 Annex 통제 - 클라우드 서비스 보안
+
+27032 사이버보안 공격 메카니즘 이해 및 통제 선택 및 구현
+27036 CyberSecurity Supplier Relationships 사이버보안 공급망
+27036-2 제품 및 서비스 공급자 관계에서 계약 요구사항
+
+27701 개인정보보호 통제
+GDPR
+
+/SAE 21434 Automotive CyberSecurity 자동차 사이버보안
+/SAE 8475 자동차 사이버보안 보증 수준 및 표적 공격 가능성
+UNECE WP29 Risk based 원칙
+
+## Attributed based
+
+Attribute-based access control (ABAC)
+: is an authentication model that assesses attributes (or characteristics) instead of roles to verify access. ABAC aims to protect objects such as network devices, data, and IT resources from unauthorized users and actions—those that don’t align with “approved” characteristics as outlined by an organization’s security policies.
+
+ABAC rose to fame as a form of logical access control in the past decade and evolved from simple access control lists and role-based access control (RBAC). As part of a project to assist federal organizations in improving their access control architectures, the Federal Chief Information Officers Council authorized ABAC in 2011. ABAC is the suggested model for organizations to share information securely.
+
+## Risk based
+
+## Context based 
+
+Context-Based Access Control (CBAC) 
+: is a security model and access control approach that considers various contextual factors when making decisions about granting or denying access to resources or data. It is an extension of traditional access control mechanisms, such as Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC), which primarily rely on static rules and policies.
+
+In CBAC, access decisions are based on the context in which a request for access is made. This context can include a wide range of factors, such as:
+
+* **User attributes**: Information about the user making the request, such as their role, department, location, and security clearance.
+* **Environmental conditions**: Information about the current environment, including the time of day, location, device used, network connection, and more.
+* **Object attributes**: Characteristics of the resource or data being accessed, such as its sensitivity level, classification, or owner.
+* **Relationship context**: Information about the relationships between users and resources, which may affect access decisions. For example, a manager may have different access rights to the data of their subordinates compared to other employees.
+* **Behavioral context**: Historical data or behavioral patterns associated with the user, such as access patterns and past actions.
+
+> CBAC enables organizations to fine-tune access control decisions by considering these contextual factors. By doing so, CBAC can enhance security and compliance, as it allows for more granular and dynamic access control policies. 
+>For example:
+> * A CBAC system can restrict access to sensitive data during non-business hours.
+> * It can grant access to certain resources only when the user is within a specific physical location.
+> * It can adapt access permissions based on a user’s changing role within an organization.
