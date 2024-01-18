@@ -12,4 +12,4 @@ author: 잠자리
 
 ## Security Review 사례
 
-<iframe width="auto" height="auto" max-width="600px" src="https://www.youtube.com/embed/pZh7NBaa6aw" title="토스ㅣSLASH 23 - 보안의 Next Level을 향해 토스의 Security Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="auto" height="auto" max-width="640px" src="https://www.youtube.com/embed/pZh7NBaa6aw" title="토스ㅣSLASH 23 - 보안의 Next Level을 향해 토스의 Security Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

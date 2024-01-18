@@ -10,8 +10,10 @@ comments: true
 author: 잠자리
 ---
 
-![라이지움 ISO 27001](/assets/img/라이지움-ISO-27001.png)
-
+![라이지움 ISO 27001](/assets/img/라이지움-ISO-27001.png){: width="auto" width-max="400px"}
+[라이지움 교육](https://www.lyzeum.com/board/begin_view.asp?Seq=52887&Now_Page=1&Page_Size=10&Sear_Key=Title&Sear_Word=&Clas_Code=CC1580&Cate_Code=&Star_Date=&End_Date=&Boar_Code=MP1174)
+![한국표준협회](assets/img/한국표준협회-ISO-27001-교육.png){: width="auto" width-max="400px"}
+[한국표준협회](https://www.ksaedu.or.kr/edu/course/view.user?paramMap.course_code=COL88357)
 27001 Risk based 통제 원칙
 27001 Annex A 통제 - 정보보안 통제의 포괄적인 통제 목록
 27002 CyberSecurity Framework 구현 (NIST CyberSecurity Framework 참조 모델 draft:2023)

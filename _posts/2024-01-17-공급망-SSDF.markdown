@@ -1,0 +1,19 @@
+---
+title: 보안을 위한 실질적인 SLDC(Secure Software Development Framework)
+date: 2024-01-18
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+## Shift-Left(원점 회귀)
+
+Shift-Left(원점 회귀)
+: "원점 회귀(Shift Left)" 보안은 보안을 개발 프로세스에서 가능한 한 초기 시점으로 이동하는 것
+
+![Shift-Left 원점 회귀 개발 절차](/assets/img/원점-회귀-Shift-Left-개발-절차.png)
+> 보안팀이 기업의 개발 프로세스를 이해하는 데 시간을 투자. 보안 프로세스와 도구를 CI/CD 파이프라인에 내장하는 데 시간을 쏟았고, 이 과정 덕분에 보안 품질 가드레일이 자동화되었음
