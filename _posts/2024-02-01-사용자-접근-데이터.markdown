@@ -1,0 +1,13 @@
+---
+title: 사용자 접근 LOG를 보고 싶다
+date: 2099-01-11
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [도메인이벤트]
+comments: true
+author: 잠자리
+---
+
+![](assets/img/UserAccessFootPrint.PNG){: width="auto"}
