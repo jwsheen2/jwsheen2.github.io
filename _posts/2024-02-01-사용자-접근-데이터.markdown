@@ -10,4 +10,6 @@ comments: true
 author: 잠자리
 ---
 
-![](assets/img/UserAccessFootPrint.PNG){: width="auto"}
+![](/assets/img/Log_View_1st.png){: width="auto"}
+![](/assets/img/Log_Session_FootPrintGroup.png){: width="auto"}
+![](/assets/img/Log_Member_FootPrint_yellow300interval.png){: width="auto"}
