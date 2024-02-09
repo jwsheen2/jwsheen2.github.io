@@ -1,6 +1,6 @@
 ---
 title: Evidence.dev를 다시 설치하다
-date: 2024-0다-09
+date: 2024-02-09
 layout: post #default
 subtitle: 
 # image:
