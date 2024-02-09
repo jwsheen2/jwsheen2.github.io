@@ -88,10 +88,10 @@ npm run dev
 
 ### MotherDuck Connection만드는 방식
 Evidence SETTING에서 connection을 다음과 같이 추가하고
-![MotherDuck connection](/assets/img/MotherDuck-Connection.png)
+![MotherDuck connection](/assets/img/MotherDuck-Connection.png){:  width="auto" width-max="600px"}
 
 [MotherDuck](https://app.motherduck.com)에서 access token을 복사하여
-![MotherDuck Token 위치](/assets/img/MotherDuck-Auth-Token.png)
+![MotherDuck Token 위치](/assets/img/MotherDuck-Auth-Token.png){:  width="auto" width-max="400px"}
 
 ### 특별한 값 처리
 > 페이지, 버튼, 링크 데이터를 시계열로 처리하려고 한다. 이 때 하나의 페이지에서 페이지, 버튼, 링크가 연속적으로 기록된 것을 처리해야 할 경우가 있다. 시계열을 X축으로 하여 페이지 이동을 Y축으로 점을 찍는다고 하면, 버튼과 링크는 Y값이 페이지와 동일하게 될 때가 발생한다. 이때 데이터를 페이지 기준으로 만들어서 정렬할 필요가 있다.
