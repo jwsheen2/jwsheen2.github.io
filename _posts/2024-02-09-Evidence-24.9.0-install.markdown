@@ -1,0 +1,85 @@
+---
+title: Evidence.dev를 다시 설치하다
+date: 2024-0다-09
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [도메인이벤트]
+comments: true
+author: 잠자리
+---
+
+## 2023.4월 V16.03을 끝으로 안쓰다가 2024년 2월 다시 쓰려고 하다
+먼저 소스 리포지토리에서 옛 코드를 꺼내서 code로 열어 본다. 여전히 Evidence는 SQL과 markdown이외에는 특별하달게 없다. 가볍게 duckdb를 생성하고 옛 코드를 실행하려고 하는데, 에러가 난다. 에러없이 조용히 실행되는 것이 이상한거겠지.
+역시 옛 코드를 정리하느라 저장소가 변경된 것이 원인이다. 저장소 주소 손보고 실행하니 문제없이 잘 실행된다. 자 그럼 이번에는 생각해 둔 과제를 실행해 볼까?
+
+## Duck DB를 온라인으로 옮겨놓자
+DuckDB는 여러 형태의 운영환경을 지원한다. 개인 개발자로 일하는 경우에는 노트북에 DB와 코드를 담아놓으면 서비스 대응이 어려운 경우가 많다. 후다닥 해 치울 일들이 생기면 커피숍에서라도 접속하고 해결해야 한다. 그래서 DB를 ONLINE에 두고 싶다. 마침 MotherDuck 서비스가 beta 오픈을 한지 얼마 안되었다. 꽁짜라는 얘기다. 
+기억할 2가지가 있다
+1. https://evidence.app
+2. Https://app.motherduck.com
+
+1번은 Evidence CLOUD 서비스다. 특징은 github repo와 연동하여 운영할 수 있다. 개발자는 코드만 repo에 관리하면 된다.
+2번은 DuckDB SaaS 서비스다. DuckDB를 가지고 다니지 않아도 된다. DuckDB를 주로 분석용으로 쓰는 나는 실시간 데이터 업로드를 받아서 볼 수 있으니 좋다.
+
+### #1 Evidence CLOUD를 활용하고 APP 전용 URL도 확보하자
+Evidence CLOUD를 신청하면 slack이나 email로 승인 메세지를 받을 것이다. 그런 후에 아래 URL에 접속해 보자.
+* https://jwsheen.evidence.app
+처음 Project를 생성하면 github repo를 생성하고 app 전용 URL도 정할 수 있다. 위의 URL중에 jwsheen이 내가 등록한 app 전용 URL이다.
+
+### #2 MotherDuck에 DB를 올리자
+DuckDB0.9.0을 CLI창으로 열어 다음과 같이 해보자 `.open md:?saas_mode=true`
+```
+D .open md:?saas_mode=true
+1. Please open this link to login into your account: https://auth.motherduck.com/activate
+2. Enter the following code: [F\*\*B-V\*\*P](FDNB-VJVP)
+```
+motherduck.com에 가입하고 나면 
+https://app.motherduck.com라는 사이트에서 DB를 실행해 볼 수 있다. AWS S3와 연동할 수도 있다.
+
+```
+james@DESKTOP:~/evidence.dev$ npm install @evidence-dev/evidence@latest @evidence-dev/core-components@latest
+
+added 378 packages, removed 101 packages, and changed 184 packages in 3m
+james@DESKTOP:~/evidence.dev$ npm run dev
+
+> my-evidence-project@0.0.1 dev
+> evidence dev --open /
+
+[!] Unable to load source manifest
+        This likely means you have no source data, and need to generate it.
+        Running npm run sources will generate the needed data. See npm run sources --help for more usage information
+        Documentation: https://docs.evidence.dev/core-concepts/data-sources/
+Cleared query cache
+
+Forced re-optimization of dependencies
+
+  VITE v4.3.9  ready in 5800 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+Unable to load manifest, do you need to generate sources?
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+```
+
+npm run sources를 실행하고도 에러를 만났다. 
+```
+npx update-browserslist-db@latest
+```
+
+SLACK에서 #migration을 참조하라고 가이드하는 것을 보니 구조가 바뀐 모양이다. 
+## 새 버전을 설치해 봐야겠다
+```
+npx degit evidence-dev/template my-project
+cd my-project
+npm install
+npm run sources
+npm run dev
+```
+
+### MotherDuck Connection만드는 방식은
+![MotherDuck connection](/assets/img/MotherDuck-Connection.png)
