@@ -80,6 +80,11 @@ npm install
 npm run sources
 npm run dev
 ```
+예상한 것처럼 이전 V16까지는 없던 기능이 생긴 것 같다. `npm run sources`가 그 증거이다. 
+실행했더니 sources 폴더 밑에 [connection_name] 폴더를 만들고 connection.yaml과 .sql를 생성한다. 
+동일하게 motherduck connection도 만들어 봐야겠다.
+여러 connection을 동시에 사용할 수도 있는지 테스트해 봐야겠다.
+
 
 ### MotherDuck Connection만드는 방식
 Evidence SETTING에서 connection을 다음과 같이 추가하고
