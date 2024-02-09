@@ -33,7 +33,7 @@ DuckDB0.9.0을 CLI창으로 열어 다음과 같이 해보자 `.open md:?saas_mo
 ```
 D .open md:?saas_mode=true
 1. Please open this link to login into your account: https://auth.motherduck.com/activate
-2. Enter the following code: [F\*\*B-V\*\*P](FDNB-VJVP)
+2. Enter the following code: [F**B-V**P](FDNB-VJVP)
 ```
 motherduck.com에 가입하고 나면 
 https://app.motherduck.com라는 사이트에서 DB를 실행해 볼 수 있다. AWS S3와 연동할 수도 있다.
