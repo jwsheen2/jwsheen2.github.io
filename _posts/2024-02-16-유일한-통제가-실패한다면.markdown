@@ -20,3 +20,6 @@ author: 잠자리
 
 [버라이존 발표 DBIR](https://www.verizon.com/business/resources/reports/dbir/)
  : 매년 발표되는 보안사고 분석 자료
+
+[Pizza as a service](/assets/img/pizza-as-a-service.png)
+ : https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service/ 2014 클라우드 책임 공유 모델 비유 
