@@ -1,0 +1,17 @@
+---
+title: 유일한 최후의 통제가 실패한다면
+date: 2024-02-16
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+
+최후의 (유일한) 방어선이 무너진다면 어떻게 할 것인가? 이 질문의 답이 결국 최후의 방어선이다.
+
+## 참고자료
+[버라이존 발표 DBIR](https://www.verizon.com/business/resources/reports/dbir/)
+ : 매년 발표되는 보안사고 분석
