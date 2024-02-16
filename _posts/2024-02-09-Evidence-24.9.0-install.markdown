@@ -91,7 +91,7 @@ Evidence SETTING에서 connection을 다음과 같이 추가하고
 ![MotherDuck connection](/assets/img/MotherDuck-Connection.png){:  width="auto" width-max="600px"}
 
 [MotherDuck](https://app.motherduck.com)에서 access token을 복사하여
-<img src="/assets/img/MotherDuck-Auth-Token.png" alt="MotherDuck Token">
+<img src="/assets/img/MotherDuck-Auth-Token.png" width="400px" alt="MotherDuck Token">
 [MotherDuck Token 위치](/assets/img/MotherDuck-Auth-Token.png){:  width="auto" width-max="300px"}
 
 ### 특별한 값 처리
