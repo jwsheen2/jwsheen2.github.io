@@ -1,0 +1,13 @@
+---
+title: 씨말은 어디에서 시작하였는가
+date: 2024-02-18
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [말]
+comments: true
+author: 잠자리
+---
+
+![씨라](/assets/img/훈민정음-해례본-씨.png)

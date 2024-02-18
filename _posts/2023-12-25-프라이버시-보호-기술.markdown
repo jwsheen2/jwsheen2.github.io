@@ -34,6 +34,7 @@ author: 잠자리
 * 증명자(Prover)가 검증자(Verifier)에게 자신의 주장(Statement)이 사실임을 증명하는데 사용되는 암호화 기술
 * 증명자는 자신의 주장을 증명하기 위해서 검증자에게 자신의 주장에 관한 어떤 정보도 제공(유출)하지 않는다
 * 검증자는 증명자의 주장에 대한 어떤 정보도 알지 못한 상태에서 검증을 수행한다
+* [위키 영지식 증명](https://ko.wikipedia.org/wiki/%EC%98%81%EC%A7%80%EC%8B%9D_%EC%A6%9D%EB%AA%85)
 
 ## 동형 암호 Homomorphic Encryption
 * 평문과 암호문의 동형(Homomorphic) 성질로 인해 암호문 상태에서도 연산이 가능한 차세대 암호기술 
