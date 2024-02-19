@@ -1,0 +1,148 @@
+---
+title: 사이버 위생 cyber hygiene이 뭐지? 왜?
+date: 2024-02-19
+layout: post #default
+subtitle: 
+# image:
+#   path: /assets/img/맛-산해진미-한정식.webp
+tags: [정보보호]
+comments: true
+author: 잠자리
+---
+techtarget.com,  Alissa Irei
+
+## What is cyber hygiene and why is it important?
+
+사이버 위생 또는 사이버 보안 위생은 조직과 개인이 사용자, 장치, 네트워크 및 데이터의 상태와 보안을 유지하기 위해 정기적으로 수행하는 일련의 관행입니다.
+
+사이버 위생의 목표는 민감한 데이터를 안전하게 유지하고 공격이 성공할 경우 조직의 복구 능력을 강화하는 것입니다. 이 개념은 개인 위생과 유사하게 작동합니다. 개인은 충치를 최소화하기 위해 치실을 사용하고 감염을 예방하기 위해 손을 씻는 등 정기적으로 권장되는 조치를 취함으로써 건강을 유지합니다. 마찬가지로, 조직은 예방적인 사이버 위생 조치를 통해 건강을 유지하고 데이터 유출 및 기타 보안 사고를 예방할 수 있습니다.
+
+개인 위생은 질병을 예방하는 데 도움이 되며, 질병이나 부상이 닥쳤을 때 쉽게 회복할 수 있도록 해줍니다. 마찬가지로, 사이버 위생은 사이버 보안과 사이버 탄력성의 기초입니다. 사이버 보안은 위협으로부터 보호하는 반면, 사이버 탄력성은 보안 침해 후 조직의 복구 및 정상적인 운영 능력을 향상시킵니다. 사이버 탄력성 전략에는 사이버 보안, 사고 대응, 비즈니스 연속성 및 재해 복구가 포함됩니다.
+
+최적의 개인 건강을 달성하려면 운동부터 명상, 잎채소 섭취, 정기 대장내시경 예약에 이르기까지 엄청나게 다양한 조치 항목이 필요합니다. 혼란을 더하는 것은 개인의 위험 프로필이 변화하고 의학이 발전함에 따라 권장되는 관행도 바뀌는 것입니다.
+
+많은 보안 전문가들은 수많은 권장 사항과 끊임없이 변화하는 위협 환경으로 인해 최적의 보안 상태를 달성하는 것이 마찬가지로 복잡하고 부담스럽다고 생각합니다. 위험 기반 보안 전략은 이러한 혼란을 해결하는 데 도움이 되며, 보안 팀은 비즈니스를 효율적으로 운영하면서 비즈니스를 가장 잘 보호하는 사이버 위생 관행의 우선 순위를 지정할 수 있습니다. 예를 들어, 모든 소프트웨어 패치를 출시 즉시 적용하는 것은 불가능할 수 있지만 실무자는 가장 위험한 취약점을 수정하는 패치의 우선순위를 정할 수 있습니다.
+
+조직이 직면한 가장 큰 위험 중 일부는 피싱 위협과 관련되어 있으며, 이는 중요한 관련 사항을 제기합니다. 사이버 위생의 책임은 IT 및 사이버 보안 실무자에게만 있는 것이 아닙니다. 오히려 이는 모든 부서와 사용자가 공유하는 책임입니다. 거의 모든 직원이 적절한 사이버 위생을 유지하고 비즈니스 위험을 완화하는 데 도움을 줄 수 있는 한 가지 방법은 의심스러운 첨부 파일 주의, 공용 Wi-Fi 방지, 강력한 비밀번호 사용 등 현재 이메일 보안 모범 사례를 따르는 것입니다.
+
+Cyber hygiene, or cybersecurity hygiene, is a set of practices organizations and individuals perform regularly to maintain the health and security of users, devices, networks and data.
+
+The goal of cyber hygiene is to keep sensitive data secure and strengthen the organization's ability to recover if and when a successful attack occurs. The concept works similarly to personal hygiene. Individuals maintain their health by taking regular recommended actions, such as flossing to minimize cavities and handwashing to avoid infection. In the same way, organizations can maintain their health, thereby preventing data breaches and other security incidents, by following precautionary cyber hygiene measures.
+
+Personal hygiene helps prevent disease, and it can also make it easier to bounce back when illness or injury strikes. Similarly, cyber hygiene is foundational to both cybersecurity and cyber resilience. While cybersecurity guards against threats, cyber resilience improves an organization's ability to recover and resume normal operations after a security breach. Cyber resilience strategies involve cybersecurity, incident response, business continuity and disaster recovery.
+
+Achieving optimal personal health requires an overwhelming array of action items, ranging from exercising to meditating to eating leafy greens to scheduling regular colonoscopies. Adding to the confusion, recommended practices shift as a person's risk profile changes and as medical science evolves.
+
+Many security professionals find achieving an optimal security posture similarly complex and overwhelming, with a plethora of recommendations and a constantly shifting threat landscape. A risk-based security strategy helps navigate this confusion, enabling security teams to prioritize cyber hygiene practices that most protect the business while still letting it operate efficiently. For example, while it might not be feasible to apply every software patch immediately upon release, practitioners can prioritize those that fix the most dangerous vulnerabilities.
+
+Some of the biggest risks organizations face involve phishing threats, which raises an important, related point: The onus of cyber hygiene is not just on IT and cybersecurity practitioners. Rather it is a shared responsibility among all departments and users. One way almost every employee can help maintain proper cyber hygiene and mitigate business risk is by following current email security best practices, such as being wary of suspicious attachments, avoiding public Wi-Fi and using strong passwords.
+
+## What are the benefits of cyber hygiene and why is it important?
+
+우수한 사이버 위생을 유지함으로써 조직은 보안 상태를 개선하고 운영 중단, 데이터 손상 및 데이터 손실 위험을 최소화합니다.
+
+기업의 보안 태세는 사이버 보안 프로그램의 전반적인 강점과 기존 및 새로운 사이버 위협을 얼마나 잘 처리할 수 있는지를 나타냅니다. 기본적인 사이버 위생은 최적의 사이버 보안과 사이버 탄력성을 달성하는 데 큰 도움이 됩니다.
+사이버 위생을 유지하는 데 어떤 어려움이 있나요?
+
+By maintaining good cyber hygiene, an organization improves its security posture, minimizing the risk of operational interruptions, data compromise and data loss.
+
+An enterprise's security posture refers to the overall strength of its cybersecurity program, and therefore how well it is positioned to handle existing and emerging cyberthreats. Basic cyber hygiene goes a long way toward achieving optimal cybersecurity and cyber resilience.
+
+## What are the challenges of maintaining cyber hygiene?
+
+우수한 사이버 위생을 유지하는 것이 중요하지만 쉽지 않습니다. 다음과 같은 일반적인 과제를 고려하세요.
+
+* IT 환경의 폭과 복잡성. 오늘날 기업에서는 종종 하이브리드 및 멀티 클라우드 환경에 분산되어 있는 엄청난 양의 사용자, 장치 및 자산으로 인해 적절한 사이버 위생을 유지하기가 어렵습니다.
+* 단음. 목표적으로 사이버 위생은 보안 실무자와 최종 사용자가 할 일 목록을 완료하고 지울 수 있는 것이 아닙니다. 오히려, 중요하지만 종종 평범하고 쉽게 무시되는 행동과 작업의 끝없는 흐름에 일상적으로 참여해야 합니다.
+* 사용자 동의. IT 보안팀은 스스로 좋은 사이버 위생을 달성할 수 없습니다. 사이버 보안에 대한 전문 지식이나 관심이 거의 없는 사용자를 포함하여 조직 전체에서 최종 사용자의 지원과 참여가 필요합니다. 이는 조직에 스며드는 사이버 보안 문화를 조성하는 것을 의미합니다.
+
+While maintaining good cyber hygiene is critical, it is far from easy. Consider the following common challenges:
+
+* The breadth and complexity of IT environments. In today's enterprise, the sheer volume of users, devices and assets -- often distributed across hybrid and multi-cloud environments -- makes maintaining proper cyber hygiene difficult.
+* Monotony. As an objective, cyber hygiene isn't something security practitioners and end users can ever complete and cross off a to-do list. Rather, it requires them to routinely engage in a never-ending stream of important -- but often mundane and easily neglected -- behaviors and tasks.
+* User buy-in. IT security teams can't achieve good cyber hygiene on their own. They need the support and engagement of end users throughout their organizations, including those with little expertise or interest in cybersecurity. This means creating a culture of cybersecurity that permeates the organization.
+
+열악한 사이버 위생은 보안 사고, 데이터 손상 및 데이터 손실로 이어질 수 있습니다. 데이터 침해의 결과에는 재정적 손실, 정부 벌금, 운영 중단 시간, 조직의 격변, 조직의 평판 손상 및 법적 책임이 포함될 수 있습니다. 최악의 경우 회사가 폐업할 수도 있습니다.
+
+Poor cyber hygiene can lead to security incidents, data compromise and data loss. The consequences of a data breach can include financial loss, government fines, operational downtime, organizational upheaval, damage to the organization's reputation and legal liability. In the worst-case scenario, a company could even go out of business.
+
+## 사용자를 위한 사이버 위생 모범 사례
+
+사이버 보안은 모든 사람의 책임입니다. 즉, 조직은 사이버 위생의 우선순위를 정해야 하지만 개인 직원도 마찬가지입니다.
+
+## Cyber hygiene best practices for users
+
+Cybersecurity is everyone's responsibility, which means that while organizations need to prioritize cyber hygiene, so must individual employees.
+
+With that in mind, end users need to be aware of the following cyber hygiene best practices:
+
+* Backups. Regularly back up important files to a separate, secure location that would remain safe and isolated if the primary network became compromised.
+
+![whaling vs phising](/assets/img/whatis-whaling_vs_phising-f_desktop.png)
+
+Chart comparing phishing vs. spear phishing vs. whaling
+
+Chart Library
+Regular security awareness training can mitigate the risk of getting hooked in phishing attacks.
+
+* Education. Learn how to avoid falling victim to phishing scams and how to prevent common malware attacks. As a rule, avoid clicking on links and attachments received via email. Stay up to date on emerging phishing and malware tactics.
+* Encryption. Use device and file encryption to protect sensitive information.
+* Firewalls. Make sure at-home firewalls and routers are properly set up and configured to keep out bad actors.
+
+![password hygiene](/assets/img/password_hygiene-f_desktop.png)
+
+Image of password hygiene best practices
+
+Chart Library
+Password hygiene is a core tenet of cyber hygiene.
+
+* Password hygiene. Maintain good password hygiene and use technology such as multifactor authentication (MFA) to make unauthorized access more difficult. Choose unique, complex passwords for all accounts and consider using a password manager to keep track of them.
+* Patch management. As soon as they become available, install all available software updates and security patches on the following:
+    * Company-owned devices.
+    * Personal devices used for work.
+    * Any systems that connect to the same networks as company-owned devices, whether at the office or home.
+* Online discretion. Don't post personal data a bad actor could use to guess or reset a password, or otherwise gain access to private accounts. Be aware of what personal information is already available online that cybercriminals could use in social engineering attacks.
+* Security software. Install security software, such as antimalware and antivirus, to defend systems against malicious software, including viruses, ransomware, spyware, worms, rootkits and Trojans. Make sure the software is properly configured and run regular scans to flag unusual activity.
+
+## Cyber hygiene best practices for organizations
+
+At the organizational level, so many important cyber hygiene tasks exist that it can be difficult to know where to begin. Many experts recommend first assessing the greatest cyber-risks the organization faces. Then prioritize the items on an enterprise cybersecurity hygiene checklist that would do the most to mitigate them.
+
+An established cybersecurity framework or standard -- for example, NIST SP 800-53, COBIT and COSO -- can be a helpful tool for organizing, managing and updating a cyber hygiene program.
+
+Common cyber hygiene tools, technologies and action items for organizations include the following:
+
+* Allowlisting/blocklisting. Control which applications, websites and email addresses users can and cannot use. Allowlisting -- providing a select list of apps, processes and files users can access -- and blocklisting -- providing a list users cannot access -- are two methods to control access. Learn the benefits and challenges of each approach.
+* Authentication and access control. Authentication, which confirms a user or device is who or what they claim, is a critical part of cyber hygiene. To secure their networks, organizations can choose from among at least six types of authentication. The most rudimentary is knowledge-based authentication, which requires a user to share preestablished credentials, such as a username and password or PIN. MFA requires two or more authentication factors, such as a password and a one-time code sent to the user's mobile device or email address. Biometric authentication uses biological identifiers, such as fingerprint scans or facial recognition. Other types of authentication include single sign-on, token-based authentication and certificate-based authentication. Security itself hinges on authentication and access control -- the ability to verify and admit certain users while excluding others. Common access control mechanisms include role-based access control, which grants network permissions based on a user's formal position in an organization, and the principle of least privilege, which grants users access to only the assets they absolutely need to do their jobs. Good cyber hygiene requires IT security leaders to periodically review user access entitlement to ensure no one has outdated or inappropriate privileges.
+* Backup strategy. Develop a data backup strategy that ensures mission-critical information is regularly duplicated and stored in a secure location. Many experts recommend following the 3-2-1 rule of backup, which requires storing three copies of data on two different kinds of media -- such as cloud, disk and tape -- and keeping one copy off-site.
+* Cloud access security broker (CASB). Any organization that relies on IaaS, PaaS or SaaS should consider implementing a CASB as part of its cyber hygiene strategy. CASB software facilitates secure connections between end users and the cloud, enforcing enterprise security policies around authentication, encryption, data loss prevention, logging, alerting, malware detection and more. A CASB gives an organization greater visibility into employee usage of cloud-based applications, as well as greater control over the security of cloud-based data.
+* Cloud configuration review. Too often in today's multi-cloud environments, misconfiguration of cloud resources and assets inadvertently exposes enterprise data and systems to attackers.    Learn how to avoid the top cloud misconfigurations and explore how using cloud service providers' background security services help flag potential issues.
+* Cybersecurity asset management. To protect IT assets, one must first know they exist. Enter cybersecurity asset management (CSAM), the process created to continuously discover, inventory, monitor, manage and track an enterprise's digital resources to identify and remediate security gaps. CSAM tools can automatically deploy validated cybersecurity responses, and in instances that require human intervention, recommend additional measures to SecOps teams.
+* Encryption. Use encryption, the process of converting information into secret code, to ensure corporate data, both in transit and at rest, remains protected.
+* Endpoint security. In today's workplace, a plethora of endpoint devices operate beyond the traditional security perimeter, putting them and the enterprise network they connect to at heightened risk of attack. Identify, manage and secure connected devices -- ranging from PCs to mobile devices to IoT sensors -- by following endpoint security best practices.
+* Incident response and management strategy. If and when an organization suffers a security event, it needs a preestablished incident response strategy to mitigate risk to the business. Since the fallout from a data breach can include financial losses, operational disruptions, regulatory fines, reputational damage and legal fees, an incident response team needs a combination of executive, technical, operational, legal and PR expertise. This group documents the who, what, when, why and how of its anticipated incident response, creating a plan that offers clear direction in a future crisis.
+* Password policy. Simplistic or recycled passwords are practically an open invitation to malicious hackers. Create a company password policy to protect enterprise security by establishing rules, requirements and expectations around user credentials.
+* Patch management. Patch management is the flossing of cyber hygiene: Everyone knows they should do it, but not everyone does. And just as a failure to floss could increase the risk of heart disease and dementia, failure to patch increases the risk of serious security incidents. The stakes are high, so it's critical to understand and follow patch management best practices.
+* Secure remote access. The COVID-19 pandemic ushered in a new era of hybrid work, bringing with it new information security challenges. Today's cybersecurity teams must ensure employees can access enterprise IT resources securely from the office and home, resulting in a vast attack surface. Learn how to mitigate the cybersecurity risks of remote work.
+* Security awareness training. Educate employees on the crucial role they play in mitigating cyber-risk by building an effective cybersecurity training plan. The most effective security awareness training programs find fresh ways to engage employees in foundational cybersecurity practices. End users can then put their knowledge to the test with this security awareness quiz.
+* Security log management. A cybersecurity program is only as good as its ability to recognize inappropriate or suspicious activity in the IT environment, which makes logging key to any security strategy. Best practices for security log management include recording and storing the right events, ensuring the accuracy and integrity of logs, analyzing log data to identify problems and using logging tools to manage event volume.
+* Security monitoring. Regularly or continuously scan the network for threats and vulnerabilities, such as open ports that attackers could use in port scan attacks, using tools such as SIEM or vulnerability scanners. Frequent scanning and monitoring dramatically improves cyber hygiene by flagging both potential active threats and points of weakness where attackers could gain access.
+* Shadow IT management. Unauthorized use of software and devices in the workplace can introduce significant security risks. Recognize the dangers of shadow IT and implement strategies to manage and minimize them.
+* Threat detection and response. Cybercriminals are nothing if not innovative, constantly tweaking their tactics and techniques in an effort to slip past enterprise security controls. Threat detection and response (TDR), the process of identifying threats and reacting to them quickly, is also evolving. TDR comes in a variety of tools, including extended detection and response (XDR) platforms and managed detection and response (MDR) services. Both use AI and automation to proactively uncover and stop active threats before they can do damage, rather than reacting once the damage is done.
+
+## Cyber hygiene and email security
+
+Despite the rising popularity of collaboration platforms, such as Microsoft Teams and Zoom, the vast majority of organizations still rely on email as their primary mode of communication. As a result, email remains a popular attack vector for cybercriminals who exploit it to access corporate networks and data.
+
+Image explaining email spoofing
+Email spoofing is a common tactic to make a message seem like it's coming from a trusted source, such as a personal or professional contact or a well-known retail website.
+
+Email security is an array of technologies, techniques and practices to keep cybercriminals from gaining unauthorized access to email accounts and message content. And like all cyber hygiene measures, email security is the joint responsibility of organizations and individuals.
+
+At the organizational level, establishing an email security policy that is effective and up to date should be a top priority. Informative, clear and concise policies establish cultural norms and set behavioral expectations around the safe use of email. It's important to outline email's inherent risks and dispel any false sense of security employees might have in using this ubiquitous technology.
+
+On the technical side, IT leaders must understand the importance of top email security protocols and how they help keep corporate messages secure. Antimalware, antispam, email security gateways and email filtering can further mitigate the risk of business email compromise and phishing attacks.
+
+Remember that good cyber hygiene isn't a set-it-and-forget-it proposition. Rather, it encompasses a dynamic array of habits, practices and initiatives on the part of organizations and their users, with the goal of achieving and maintaining the healthiest possible security posture.
+
+last updated in November 2023
