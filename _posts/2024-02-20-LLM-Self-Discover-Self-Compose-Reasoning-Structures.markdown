@@ -1,11 +1,11 @@
 ---
-title: 사이버 위생 cyber hygiene이 뭐지? 왜?
+title: CoT Self Discover 5 shot LLM
 date: 2024-02-20
 layout: post #default
 subtitle: 
 # image:
 #   path: /assets/img/맛-산해진미-한정식.webp
-tags: [정보보호]
+tags: [daily]
 comments: true
 author: 잠자리
 ---
