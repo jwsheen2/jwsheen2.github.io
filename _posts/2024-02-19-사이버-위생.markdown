@@ -53,8 +53,8 @@ An enterprise's security posture refers to the overall strength of its cybersecu
 우수한 사이버 위생을 유지하는 것이 중요하지만 쉽지 않습니다. 다음과 같은 일반적인 과제를 고려하세요.
 
 * IT 환경의 폭과 복잡성. 오늘날 기업에서는 종종 하이브리드 및 멀티 클라우드 환경에 분산되어 있는 엄청난 양의 사용자, 장치 및 자산으로 인해 적절한 사이버 위생을 유지하기가 어렵습니다.
-* 단음. 목표적으로 사이버 위생은 보안 실무자와 최종 사용자가 할 일 목록을 완료하고 지울 수 있는 것이 아닙니다. 오히려, 중요하지만 종종 평범하고 쉽게 무시되는 행동과 작업의 끝없는 흐름에 일상적으로 참여해야 합니다.
-* 사용자 동의. IT 보안팀은 스스로 좋은 사이버 위생을 달성할 수 없습니다. 사이버 보안에 대한 전문 지식이나 관심이 거의 없는 사용자를 포함하여 조직 전체에서 최종 사용자의 지원과 참여가 필요합니다. 이는 조직에 스며드는 사이버 보안 문화를 조성하는 것을 의미합니다.
+* Monotony 단음. 목표로써 사이버 위생은 보안 실무자와 최종 사용자가 할 일 목록을 완료하고 지울 수 있는 것이 아닙니다. 오히려, 중요하지만 종종 평범하고 쉽게 무시되는 행동과 작업의 끝없는 흐름에 일상적으로 참여해야 합니다.
+* User buy-in 사용자 동의. IT 보안팀은 스스로 좋은 사이버 위생을 달성할 수 없습니다. 사이버 보안에 대한 전문 지식이나 관심이 거의 없는 사용자를 포함하여 조직 전체에서 최종 사용자의 지원과 참여가 필요합니다. 이는 조직에 스며드는 사이버 보안 문화를 조성하는 것을 의미합니다.
 
 While maintaining good cyber hygiene is critical, it is far from easy. Consider the following common challenges:
 
@@ -66,11 +66,9 @@ While maintaining good cyber hygiene is critical, it is far from easy. Consider 
 
 Poor cyber hygiene can lead to security incidents, data compromise and data loss. The consequences of a data breach can include financial loss, government fines, operational downtime, organizational upheaval, damage to the organization's reputation and legal liability. In the worst-case scenario, a company could even go out of business.
 
-## 사용자를 위한 사이버 위생 모범 사례
+## 사용자를 위한 사이버 위생 모범 사례 Cyber hygiene best practices for users
 
 사이버 보안은 모든 사람의 책임입니다. 즉, 조직은 사이버 위생의 우선순위를 정해야 하지만 개인 직원도 마찬가지입니다.
-
-## Cyber hygiene best practices for users
 
 Cybersecurity is everyone's responsibility, which means that while organizations need to prioritize cyber hygiene, so must individual employees.
 
@@ -78,9 +76,8 @@ With that in mind, end users need to be aware of the following cyber hygiene bes
 
 * Backups. Regularly back up important files to a separate, secure location that would remain safe and isolated if the primary network became compromised.
 
-![whaling vs phising](/assets/img/whatis-whaling_vs_phising-f_desktop.png)
+![phishing vs. spear phishing vs. whaling](/assets/img/whatis-whaling_vs_phising-f_desktop.png)
 
-Chart comparing phishing vs. spear phishing vs. whaling
 
 Chart Library
 Regular security awareness training can mitigate the risk of getting hooked in phishing attacks.
