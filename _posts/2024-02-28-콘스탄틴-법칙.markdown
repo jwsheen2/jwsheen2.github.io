@@ -65,6 +65,7 @@ Types of Modules Cohesion
 
 <hr>
 Differentiate between Coupling and Cohesion
+
 | Coupling 	| Cohesion |
 | ---       | -------- |
 |Coupling is also called Inter-Module Binding. |	Cohesion is also called Intra-Module Binding.
